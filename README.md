@@ -1,5 +1,7 @@
 # 🧙‍♂️ MagiTech – Plataforma de Cursos Gamificada com VR (TCC)
 
+<div><img src="./img.png"></div>
+
 ## 📌 Sobre o Projeto
 O **MagiTech** é uma **plataforma de cursos online gamificada**, desenvolvida como **Trabalho de Conclusão de Curso (TCC)**, com foco em **educação prática, imersiva e de baixo custo de manutenção**.
 
